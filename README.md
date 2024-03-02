@@ -64,7 +64,24 @@ Follow these steps to set up the project locally:
 
 ## Usage
 
-Explain how to use the application, including any available features and functionalities.
+1. **Download the Postman Collection:**
+
+ - Download the Postman collection file named **"Movie-Rating-App.postman_collection.json"** from the repository.
+
+2. **Import the Collection in Postman:**
+
+ - Open Postman.
+ - Click on the **"Import"** button in the top-left corner.
+ - Select the downloaded **"Movie-Rating-App.postman_collection.json"** file.
+ - The collection will be imported into your Postman workspace.
+
+3. **Explore and Use the Endpoints:**
+
+ - Within the imported collection, you'll find various endpoints related to movie ratings.
+ - Set up the necessary environment variables (if any) in Postman.
+ - Make requests to the endpoints to test the functionality of your Movie Rating App.
+
+4. **Enjoy Rating Movies!**
 
 ## Troubleshooting
 
